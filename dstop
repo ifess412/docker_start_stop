@@ -1,0 +1,2 @@
+#!/bin/bash
+/home/ifess/docker_start_stop/venv/bin/python3 /home/ifess/docker_start_stop/docker_stop.py /home/ifess "$@"
